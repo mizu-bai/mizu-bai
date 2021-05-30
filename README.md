@@ -1,6 +1,16 @@
-# mizuumi
+<h1>mizuumi</h1>
 
-Learning iOS Development and Data Science.
+Mizu だよ！
+
+<h2>Interests</h2>
+
+<ul>
+    <li>iOS Development</li>
+    <li>Data Science</li>
+    <li>Chemistry</li>
+</ul>
+
+<h2>Status</h2>
 
 <a href="#stats" align="center">
     <img align="center" alt="Mizu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mizu-bai&count_private=true&show_icons=true&include_all_commits=true&show_owner=true" />
@@ -8,7 +18,7 @@ Learning iOS Development and Data Science.
 <br />
 
 <br />
-<a href="#stats" align="center">
-    <img align="center" alt="Mizu's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=mizu-bai" />
+<a href="#languages" align="center">
+    <img align="center" alt="Mizu's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=mizu-bai&layout=compact" />
 </a>
 <br />

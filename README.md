@@ -1,4 +1,4 @@
-<h1>mizuumi</h1>
+<h1>Mizuumi</h1>
 
 Mizu だよ！
 

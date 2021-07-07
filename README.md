@@ -8,6 +8,7 @@ Mizu だよ！
     <li>iOS Development</li>
     <li>Data Science</li>
     <li>Chemistry</li>
+    <li>Chemiointomatics</li>
 </ul>
 
 <h2>Status</h2>

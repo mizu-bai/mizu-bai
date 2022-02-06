@@ -24,6 +24,6 @@ Mizu だよ！
 </a>
 <br />
 
-<h2>Dependency</h2>
+<h2>Overseas Territory</h2>
 
 <a href="https://gitlab.com/mizu-bai">mizu-bai at gitlab</a>

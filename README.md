@@ -23,3 +23,7 @@ Mizu だよ！
     <img align="center" alt="Mizu's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=mizu-bai&layout=compact" />
 </a>
 <br />
+
+<h2>Dependency</h2>
+
+<a href="https://gitlab.com/mizu-bai">mizu-bai at gitlab</a>

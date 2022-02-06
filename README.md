@@ -20,7 +20,7 @@ Mizu だよ！
 
 <br />
 <a href="#languages" align="center">
-    <img align="center" alt="Mizu's Top Language" src="https://gh-readme-stats.krish-the-dev.vercel.app/api/top-langs/?username=mizu-bai&layout=compact" />
+    <img align="center" alt="Mizu's Top Language" src='https://github-readme-stats.vercel.app/api/top-langs/?username=mizu-bai&layout=compact' />
 </a>
 <br />
 

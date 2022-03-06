@@ -1,17 +1,15 @@
-<h1>Mizuumi</h1>
+# Mizuumi
 
 Mizu だよ！
 
-<h2>Interests</h2>
+## Interests
 
-<ul>
-    <li>iOS Development</li>
-    <li>Data Science</li>
-    <li>Material Chemistry</li>
-    <li>Chemiointomatics</li>
-</ul>
+- iOS Development
+- Data Science
+- Chemistry
+- Chemoinformatics
 
-<h2>Status</h2>
+## Cards (kirakira)
 
 <a href="#stats" align="center">
     <img align="center" alt="Mizu's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mizu-bai&count_private=true&show_icons=true&include_all_commits=true&show_owner=true" />
@@ -24,6 +22,8 @@ Mizu だよ！
 </a>
 <br />
 
-<h2>Overseas Territory</h2>
+## Overseas Territory
 
-<a href="https://gitlab.com/mizu-bai">mizu-bai at gitlab</a>
+[mizu-bai at  GitLab]("https://gitlab.com/mizu-bai")
+
+For some reason, some repo cannot be stored on GitHub.

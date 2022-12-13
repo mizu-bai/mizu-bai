@@ -4,10 +4,9 @@ Mizu だよ！
 
 ## Interests
 
-- iOS Development
-- Data Science
-- Chemistry
-- Chemoinformatics
+- Quantum Chemistry
+- Machine Learning
+- iOS Developer
 
 ## Cards (kirakira)
 

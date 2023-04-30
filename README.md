@@ -6,7 +6,7 @@ Mizu だよ！
 
 - Quantum Chemistry
 - Machine Learning
-- iOS Developer
+- iOS Development
 
 ## Cards (kirakira)
 

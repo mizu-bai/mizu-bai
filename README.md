@@ -23,6 +23,6 @@ Mizu だよ！
 
 ## Overseas Territory
 
-[mizu-bai at  GitLab]("https://gitlab.com/mizu-bai")
+[mizu-bai at GitLab](https://gitlab.com/mizu-bai)
 
 For some reason, some repo cannot be stored on GitHub.

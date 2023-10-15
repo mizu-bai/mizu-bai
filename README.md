@@ -5,6 +5,7 @@ Mizu だよ！
 ## Interests
 
 - Quantum Chemistry
+- Molecular Dynamics
 - Machine Learning
 - iOS Development
 

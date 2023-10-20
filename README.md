@@ -6,7 +6,7 @@ Mizu だよ！
 
 - Quantum Chemistry
 - Molecular Dynamics
-- Machine Learning
+- AI for Science
 - iOS Development
 
 ## Cards (kirakira)
